@@ -2,7 +2,7 @@
 
 ## Overview
 
-My portfolio website serves as a showcase of my skills, projects, and experiences in the field of [your field/industry]. It provides an overview of my work, skills, and contact information.
+My portfolio website serves as a showcase of my skills, projects, and experiences. It provides an overview of my work, skills, and contact information.
 
 ## Website Link
 
